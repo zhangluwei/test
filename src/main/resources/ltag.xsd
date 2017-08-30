@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+	xmlns:tns="http://www.luwei.org/ltag/"
+	targetNamespace="http://www.luwei.org/ltag/">
+	<include schemaLocation=""></include>
+	
+	<element name="name">
+		<complexType>
+			<attribute name = "u" type = "string"></attribute>
+			<attribute name = "m" type = "string"></attribute>
+		</complexType>
+	</element>
+	
+	
+</schema>

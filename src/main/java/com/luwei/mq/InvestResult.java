@@ -7,6 +7,9 @@ import java.util.Map;
 import com.google.common.collect.Maps;
 
 public class InvestResult {
+	
+	
+	
     private Long userId;
     private String username;
     private Long productId;
